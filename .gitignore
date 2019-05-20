@@ -7,6 +7,10 @@
 src/main/java/META-INF/*
 src/main/java/META-INF
 out/*
+target/*
+target/maven-archiver
+target/maven-archiver/*
+target/maven-archiver/pom.properties
 
 # Log file
 *.log
